@@ -1,0 +1,41 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Design homepage",
+      "description": "Add hero section and search bar",
+      "column": "done"
+    },
+    {
+      "id": "2",
+      "title": "Setup API",
+      "description": "Configure json-server and axios",
+      "column": "review"
+    },
+    {
+      "title": "ahmed",
+      "description": "sdsdnc sdm",
+      "column": "backlog",
+      "id": "8eGBPLK8ezs"
+    },
+    {
+      "title": "hascjhasv",
+      "description": "vjkcv sdjhv sdjk ",
+      "column": "backlog",
+      "id": "elysmjSf69s"
+    },
+    {
+      "title": "hajhc avsjh",
+      "description": "vhjvcdjhvnklnsdvklnsflkvnsfk\n\n",
+      "column": "in-progress",
+      "id": "2sAmELf0E4Q"
+    },
+    {
+      "title": "bcjkadbj",
+      "description": "bdjkv bsfjkakjscbjkdnklsdn",
+      "column": "review",
+      "id": "Myn-WW_U0oY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
